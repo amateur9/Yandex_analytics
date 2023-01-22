@@ -1,5 +1,5 @@
-<h2 align = "center"> A+B 1 </h2>
-<img align = "center" src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
+<h1 align = "center"> A+B 1 </h1>
+<img src = "https://github.com/amateur9/Yandex_analytics/blob/main/Trial%20contest/A.%20A%2BB_1/Критерии.PNG">
 Даны два числа A и B. Вам нужно вычислить их сумму A+B. В этой задаче для работы с входными и выходными данными вы можете использовать и файлы и потоки на ваше усмотрение.
 <h4> Формат ввода </h4>
 Первая строка входа содержит числа A и B (−2⋅10^9≤A, B≤2⋅10^9) разделенные пробелом
