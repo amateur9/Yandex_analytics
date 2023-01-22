@@ -7,3 +7,7 @@
 <h4> Примечания </h4>
 У вас есть 2 попытки.
 <p> Вердикт (верно решена задача или нет) НЕ показывается. </p>
+<h3> Решение </h3>
+Решение можно скачать в формате docs перейдя во вкладке decision.
+<img src = "https://github.com/amateur9/Yandex_analytics/blob/main/Testing%20content:%20Analytics/A.%20Satisfied%20analysts/Decision_1.PNG">  
+<img src = "https://github.com/amateur9/Yandex_analytics/blob/main/Testing%20content:%20Analytics/A.%20Satisfied%20analysts/Decision_2.PNG">  
